@@ -1,6 +1,6 @@
 <h1 align=“center”>Hi there ,I’m Dana!👋</h1>
 
-——-
+
 ## 👩🏻‍💻 About Me
 I’m computer science student interested in programming and learning new things.
 
