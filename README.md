@@ -5,13 +5,13 @@
 I’m computer science student interested in programming and learning new things.
 
   ## 🌱  currently learning
-  . Java
-  . Git & Githb
+  - Java
+  - Git & Githb
 
 ✨ Always learning, Always improving.
 
 ## 🎯 Goals 
-. Improve my programming skills
-. Build my own projects
+- Improve my programming skills
+- Build my own projects
 
 -->
